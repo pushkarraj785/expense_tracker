@@ -1,4 +1,9 @@
-#DEMO VIDEO
+#**Description**
+
+Expense tracker, as the name suggests is an expense tracker which uses MERN stack to provide an interface to track expenses for an allocated budget overe a period of time.
+This will be helpful for individuals struggling to track their monthly expenditure by providing a graphical interpretation of the distribution of expenses.
+
+#**DEMO VIDEO**
 
 
 https://github.com/pushkarraj785/expense_tracker/assets/122822066/f70111cc-a37b-45e6-9e2e-606bb703a5ff
