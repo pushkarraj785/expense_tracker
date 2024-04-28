@@ -35,3 +35,12 @@ https://github.com/pushkarraj785/expense_tracker/assets/122822066/f70111cc-a37b-
 ![Screenshot 2024-04-27 215230](https://github.com/pushkarraj785/expense_tracker/assets/122822066/bb8a33ff-cade-4e1e-8046-0edbdad99f83)
 ![Screenshot 2024-04-27 215038](https://github.com/pushkarraj785/expense_tracker/assets/122822066/6fb7562e-8780-4a80-9873-457b6d86634c)
 
+
+
+
+
+
+
+[Presentation for partial fullfil.pptx](https://github.com/pushkarraj785/expense_tracker/files/15141610/Presentation.for.partial.fullfil.pptx)
+
+
